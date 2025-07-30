@@ -84,5 +84,3 @@ ___
 * [Federated-Learning](https://github.com/topics/federated-learning)
 * [Privacy](https://github.com/topics/privacy)
 * [Awesome-Privacy-Engineering](https://github.com/mplspunk/awesome-privacy-engineering)
-
-* 
