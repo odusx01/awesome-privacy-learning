@@ -72,11 +72,17 @@
 
 ---
 
-## Contributing
+### Related GitHub Topics
+___
 
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for how to add content.
+* [GDPR](https://github.com/topics/gdpr)
+* [CCPA](https://github.com/topics/ccpa)
+* [Right-to-be-Forgotten](https://github.com/topics/right-to-be-forgotten)
+* [Privacy-Tech](https://github.com/topics/privacy-tech)
+* [Privacy-Enhancing-Technologies](https://github.com/topics/privacy-enhancing-technologies)
+* [Differential-Privacy](https://github.com/topics/differential-privacy)
+* [Federated-Learning](https://github.com/topics/federated-learning)
+* [Privacy](https://github.com/topics/privacy)
+* [Awesome-Privacy-Engineering](https://github.com/mplspunk/awesome-privacy-engineering)
 
-## License
-
-[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
-
+* 
